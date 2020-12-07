@@ -1,3 +1,27 @@
+## Identifying Information: 
+1. Name: Luis Rivas 
+2. Student ID: 2365948
+3. Email: lrivas@chapman.edu
+4. Class: CPSC-298-01
+5. Assignment: cars.sh
+
+## Files 
+1. cars.sh
+2. cars-input
+3. README.MD
+4. My_old_cars
+
+## Known Errors 
+None
+
+## References
+"Day7" Canvas slides to learn sort command
+"Day9" Canvas slides to learn case command
+
+## Instructions
+To run the script with input from the included cars-input file:
+./cars.sh < cars-input
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
